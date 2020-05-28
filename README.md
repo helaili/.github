@@ -1,2 +1,1 @@
-# .github
-My GitHub Defaults
+Hi there! 
